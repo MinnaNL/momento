@@ -1,7 +1,15 @@
-﻿# Momento - Productivity assistant app
- Minna, Danno & Elise
+﻿# Momento - Productivity assistant app by Minna, Danno & Elise
+ https://dieseldanno.github.io/momento/index.html
+(Register and log in to use)
+<img width="755" alt="Screenshot 2024-09-17 at 11 05 29" src="https://github.com/user-attachments/assets/100f1a3e-d3b3-4f5b-9fc0-9e6c3e6808b0">
 
- Frontend project and agile methods. We used trello as project manager
+
+<img width="330" alt="Screenshot 2024-09-17 at 10 50 37" src="https://github.com/user-attachments/assets/4456a114-05e2-4e3d-990a-288e4818fcb0">
+<img width="328" alt="Screenshot 2024-09-17 at 10 51 11" src="https://github.com/user-attachments/assets/138af33d-25cc-459c-b42e-48bb8f1b6e2f">
+
+<img width="358" alt="Screenshot 2024-09-17 at 10 54 19" src="https://github.com/user-attachments/assets/ab572eaa-081f-4a66-a854-0320df7f536b">
+
+Frontend project and agile methods. We used trello as project manager.
 
 In this school project, the assignment was to create an application that facilitates productivity in everyday life. Users should be able to keep track of their daily routines, tasks, and enable focused work. 
 
