@@ -1,18 +1,13 @@
 ﻿# Momento - Productivity assistant app by Minna, Danno & Elise
  https://dieseldanno.github.io/momento/index.html
 (Register and log in to use)
-<img width="330" alt="Screenshot 2024-09-17 at 10 50 37" src="https://github.com/user-attachments/assets/a3c37db3-34dc-4bfb-98c9-f11acae64434">
 
+<img width="330" alt="Screenshot 2024-09-17 at 10 50 37" src="https://github.com/user-attachments/assets/a3c37db3-34dc-4bfb-98c9-f11acae64434">
 <img width="327" alt="Screenshot 2024-09-17 at 11 13 31" src="https://github.com/user-attachments/assets/c236a55a-1a31-4cc6-a7db-276b5c64ce60">
 
 
 <img width="755" alt="Screenshot 2024-09-17 at 11 05 29" src="https://github.com/user-attachments/assets/100f1a3e-d3b3-4f5b-9fc0-9e6c3e6808b0">
 
-
-<img width="330" alt="Screenshot 2024-09-17 at 10 50 37" src="https://github.com/user-attachments/assets/4456a114-05e2-4e3d-990a-288e4818fcb0">
-<img width="328" alt="Screenshot 2024-09-17 at 10 51 11" src="https://github.com/user-attachments/assets/138af33d-25cc-459c-b42e-48bb8f1b6e2f">
-
-<img width="358" alt="Screenshot 2024-09-17 at 10 54 19" src="https://github.com/user-attachments/assets/ab572eaa-081f-4a66-a854-0320df7f536b">
 
 Frontend project and agile methods. We used trello as project manager.
 
