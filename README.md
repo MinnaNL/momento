@@ -3,8 +3,7 @@
 (Register and log in to use)
 
 <img width="330" alt="Screenshot 2024-09-17 at 10 50 37" src="https://github.com/user-attachments/assets/a3c37db3-34dc-4bfb-98c9-f11acae64434">
-<img width="327" alt="Screenshot 2024-09-17 at 11 13 31" src="https://github.com/user-attachments/assets/c236a55a-1a31-4cc6-a7db-276b5c64ce60">
-
+<img width="329" alt="Screenshot 2024-09-17 at 11 15 31" src="https://github.com/user-attachments/assets/eb6600d4-ce36-4935-9802-ca45c2360bb4">
 
 <img width="755" alt="Screenshot 2024-09-17 at 11 05 29" src="https://github.com/user-attachments/assets/100f1a3e-d3b3-4f5b-9fc0-9e6c3e6808b0">
 
