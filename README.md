@@ -3,7 +3,7 @@
 (Register and log in to use)
 Responsive app, looks great on any screensize :)
 
-<img width="1023" alt="Screenshot 2024-09-29 at 10 21 47" src="https://github.com/user-attachments/assets/6b7a20c2-8c9c-4b15-82bf-2f92ad889638">
+<img width="1470" alt="Screenshot 2024-10-03 at 23 49 45" src="https://github.com/user-attachments/assets/3c93ae65-0816-41dc-8fa7-5d6972832170">
 
 <img width="1470" alt="Screenshot 2024-10-03 at 23 23 31" src="https://github.com/user-attachments/assets/683922b1-64a2-40cb-9f4e-c6f5c56d0657">
 
