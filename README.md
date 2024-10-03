@@ -7,9 +7,9 @@ Responsive app, looks great on any screensize :)
 
 <img width="1470" alt="Screenshot 2024-10-03 at 23 23 31" src="https://github.com/user-attachments/assets/683922b1-64a2-40cb-9f4e-c6f5c56d0657">
 
-<img width="1458" alt="Screenshot 2024-10-03 at 23 23 55" src="https://github.com/user-attachments/assets/15704d5c-960a-48c9-8512-1409f8567c41">
+<img width="1468" alt="Screenshot 2024-10-04 at 00 05 41" src="https://github.com/user-attachments/assets/3732959a-0549-4054-bdf7-391c933454e1">
 
-<img width="755" alt="Screenshot 2024-09-17 at 11 05 29" src="https://github.com/user-attachments/assets/100f1a3e-d3b3-4f5b-9fc0-9e6c3e6808b0">
+<img width="1458" alt="Screenshot 2024-10-03 at 23 23 55" src="https://github.com/user-attachments/assets/15704d5c-960a-48c9-8512-1409f8567c41">
 
 
 Frontend project and agile methods. We used trello as project manager.
