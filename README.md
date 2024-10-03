@@ -18,6 +18,14 @@ In this school project, the assignment was to create an application that facilit
 
 ## Features:
 
+Login
+Register
+Todos
+Habits
+Weather
+Calender
+Pomodoro timer
+
 ### Login:
 
 Users can register with a username and password.
@@ -60,6 +68,7 @@ Each user has access to all their tasks and routines when they log in.
 Title (e.g., exercise, read a book, meditate)
 Streak (number of consecutive days the user performed the routine)
 Priority (low, medium, high)
+Extra: Choose frequency
 
 #### Users can:
 
@@ -70,8 +79,9 @@ Priority (low, medium, high)
 - Habit streak
 - Priority
 
-#### Nice-to-have features:
 
-- Pomodoro timer functionality
-- Weather functionality
-- Calendar functionality
+#### Nice-to-have features added:
+
+- Pomodoro timer 
+- Weather 
+- Calendar 
